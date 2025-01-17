@@ -31,8 +31,6 @@ To become a proficient developer, crafting applications that solve real-world pr
 <a href="https://www.linkedin.com/in/purva-patel-1b660628b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
-// ... existing code ...
-
 ## 🛠️ Technologies and Tools:
 
 <p align="left">
@@ -43,10 +41,6 @@ To become a proficient developer, crafting applications that solve real-world pr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
-
-// ... existing code ...
-
-// ... existing code ...
 
 ## 📊 My Projects
 
@@ -81,8 +75,6 @@ To become a proficient developer, crafting applications that solve real-world pr
   - Simple and efficient interface
 
 Let's connect and build something awesome together! 😊
-
-// ... existing code ...
 
 <!-- GitHub Stats -->
 <p align="center">
