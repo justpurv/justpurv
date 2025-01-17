@@ -40,6 +40,9 @@ To become a proficient developer, crafting applications that solve real-world pr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/>
+    <img src="https://obsidian.md/favicon.ico" alt="obsidian" width="40" height="40"/>
+    <img src="https://cursor.sh/favicon.ico" alt="cursor" width="40" height="40"/>
 </p>
 
 ## 📊 My Projects
