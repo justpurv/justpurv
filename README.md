@@ -27,37 +27,68 @@ To become a proficient developer, crafting applications that solve real-world pr
 
 <p align="left">
 <a href="mailto:purv260@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://github.com/purvapatel7" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://github.com/justpurv" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 <a href="https://www.linkedin.com/in/purva-patel-1b660628b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
+// ... existing code ...
+
+## 🛠️ Technologies and Tools:
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
+
+// ... existing code ...
+
+// ... existing code ...
+
 ## 📊 My Projects
 
-### [Tic-Tac-Toe Game](https://github.com/purvapatel7/tic-tac-toe-game)
+### [Quiz App](https://github.com/justpurv/quizzApp)
 
-- A classic Tic-Tac-Toe game implementation
+- A command-line based quiz application
 - Built using Java
-- Features player vs player gameplay
+- Features:
+  - Interactive question-answer format
+  - Score tracking
+  - Multiple choice questions
+  - User-friendly interface
 
-### [Calculator](https://github.com/purvapatel7/calculator)
+### [Contact Manager](https://github.com/justpurv/contact_manager)
 
-- A simple calculator application
+- A comprehensive contact management system
 - Built using Java
-- Supports basic arithmetic operations
+- Features:
+  - Add/Edit/Delete contacts
+  - Contact information storage
+  - Search functionality
+  - Contact list management
 
-### [Hangman Game](https://github.com/purvapatel7/hangman-game)
+### [ToDo List App](https://github.com/justpurv/ToDoListApp)
 
-- Classic word guessing game
+- A command-line task management application
 - Built using Java
-- Features word randomization and score tracking
+- Features:
+  - Task creation and management
+  - File-based storage (tasks.txt)
+  - Task status tracking
+  - Simple and efficient interface
 
 Let's connect and build something awesome together! 😊
 
+// ... existing code ...
+
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purvapatel7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justpurv&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purvapatel7&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justpurv&theme=radical" alt="GitHub Streak" />
 </p>
